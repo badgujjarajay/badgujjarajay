@@ -2,7 +2,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on Neural Networks (Deep Learning).
+- 🔭 I’m currently learning Node.Js.
 - ⚡ Ask me about Data Structures and Algorithms, Machine Learning, Deep Learning and Neural Networks
 - 📩 <a href="mailto:badgujjarajay@gmail.com">badgujjarajay@gmail.com</a>
 
